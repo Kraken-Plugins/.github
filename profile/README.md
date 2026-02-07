@@ -13,6 +13,7 @@
 [![Website](https://img.shields.io/badge/website-kraken--plugins.com-blue)](https://kraken-plugins.com)
 [![Documentation](https://img.shields.io/badge/docs-available-brightgreen)](https://kraken-plugins.com/docs/)
 
+</div>
 ---
 
 ## About
