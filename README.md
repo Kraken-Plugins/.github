@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://kraken-plugins.com">
-    <img src="kraken.png" alt="Logo" width="128" height="128">
+    <img src="profile/kraken.png" alt="Logo" width="128" height="128">
   </a>
 
 # Kraken Plugins
