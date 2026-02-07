@@ -9,7 +9,7 @@
 
 ### Extended RuneLite Plugins for Old School RuneScape
 
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&logo=discord&logoColor=white)](https://discord.gg/9Tzgf9ePJy)
+[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&logo=discord&logoColor=white)](https://discord.com/invite/6UGZqXj22s)
 [![Website](https://img.shields.io/badge/website-kraken--plugins.com-blue)](https://kraken-plugins.com)
 [![Documentation](https://img.shields.io/badge/docs-available-brightgreen)](https://kraken-plugins.com/docs/)
 
