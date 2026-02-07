@@ -14,7 +14,6 @@
 [![Documentation](https://img.shields.io/badge/docs-available-brightgreen)](https://kraken-plugins.com/docs/)
 
 </div>
----
 
 ## About
 
